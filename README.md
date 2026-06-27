@@ -1,4 +1,4 @@
 # learning_repo
 this is just for revision.
 <br>
-Author: Deep Jyoti
+Author_Name: Deep Jyoti
